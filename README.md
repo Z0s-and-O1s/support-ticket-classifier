@@ -63,10 +63,10 @@ TF-IDF Vectorization
       ↓
 Logistic Regression
       ↓
-Predicted Issue Category```
+Predicted Issue Category
+```
 
+## 🚀 Live Demo
 
-## LINK
-
-Access the webpage here: [Support Ticket Classifier — Live Demo](https:// 
-support-ticket-classifier-kvyw6yerncy2kkmup2j728.streamlit.app/)
+**Access the application here:**  
+[👉 Support Ticket Classifier — Live Demo](https://support-ticket-classifier-kvyw6yerncy2kkmup2j728.streamlit.app/)
