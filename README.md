@@ -63,7 +63,7 @@ TF-IDF Vectorization
       ↓
 Logistic Regression
       ↓
-Predicted Issue Category
+Predicted Issue Category```
 
 
 ## LINK
